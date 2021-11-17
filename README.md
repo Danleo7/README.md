@@ -1,4 +1,3 @@
-# README.md
 <h1 align="center">Oi 👋, Eu sou o Daniel</h1>
 <h3 align="center">Um estudante de Ciência da Computação apaixonado por desenvolvimento e sua técnicas</h3>
 
